@@ -21,6 +21,6 @@ Inicio
      
      fimse
 
-     escreva ("Maior distancia é: ", maior)
+     escreva ("Maior distancia Ã©: ", maior)
 
 Fimalgoritmo
